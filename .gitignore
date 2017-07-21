@@ -1,0 +1,5 @@
+.idea
+*.klib
+*-build
+*.bc
+*.kexe
