@@ -3,3 +3,4 @@
 *-build
 *.bc
 *.kexe
+.DS_Store
